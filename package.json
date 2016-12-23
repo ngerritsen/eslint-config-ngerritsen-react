@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-ngerritsen-react",
+  "version": "0.1.0",
+  "description": "My recommended ESLint rules for React",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngerritsen/eslint-config-ngerritsen-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "ngerritsen",
+    "react"
+  ],
+  "peerDependencies": {
+    "eslint": ">=3.12",
+    "eslint-plugin-react": ">=6.8"
+  },
+  "author": "Niels Gerritsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngerritsen/eslint-config-ngerritsen-react/issues"
+  },
+  "homepage": "https://github.com/ngerritsen/eslint-config-ngerritsen-react#readme"
+}
