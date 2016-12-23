@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ngerritsen-react",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "My recommended ESLint rules for React",
   "repository": {
     "type": "git",
